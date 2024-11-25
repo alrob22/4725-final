@@ -1,0 +1,165 @@
+# Blender 4.3.0 MTL File: 'uploads_files_4758630_format1.blend'
+# www.blender.org
+
+newmtl COTH.002
+Ka 1.000000 1.000000 1.000000
+Kd 0.353276 0.704595 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Ns C:/fabric_104_roughness-2K.png
+map_Bump -bm 1.000000 C:/fabric_104_normal-2K.png
+
+newmtl COTH.004
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/fabric_104_basecolor-2K.png
+map_Ns C:/fabric_104_roughness-2K.png
+map_Bump -bm 1.000000 C:/fabric_104_normal-2K.png
+
+newmtl DARK_WOOD
+Ka 0.132948 0.132948 0.132948
+Kd 0.708376 0.361307 0.212231
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Ns C:/dark_wood_rough_2k.exr
+map_Bump -bm 1.000000 C:/dark_wood_nor_gl_2k.exr
+
+newmtl DARK_WOOD.001
+Ka 0.132948 0.132948 0.132948
+Kd 0.708376 0.361307 0.212231
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Ns C:/dark_wood_rough_2k.exr
+map_Bump -bm 1.000000 C:/dark_wood_nor_gl_2k.exr
+
+newmtl DARK_WOOD.002
+Ka 0.132948 0.132948 0.132948
+Kd 0.708376 0.361307 0.212231
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Ns C:/dark_wood_rough_2k.exr
+map_Bump -bm 1.000000 C:/dark_wood_nor_gl_2k.exr
+
+newmtl Material.008
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Material.009
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/liam-sims-q-AHu_-5rrM-unsplash.jpg
+map_Ns C:/Paper001_1K-JPG_Roughness.jpg
+map_Bump -bm 1.000000 C:/Paper001_1K-JPG_NormalDX.jpg
+
+newmtl Material.010
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/istockphoto-186687196-612x612.jpg
+
+newmtl Material.016
+Ns 422.791504
+Ka 1.000000 1.000000 1.000000
+Kd 0.532440 0.532440 0.532440
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl WOOD_BRIGHT
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 0.701487 0.278856
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Ns C:/laminate_floor_03_rough_2k.exr
+map_Bump -bm 1.000000 C:/laminate_floor_03_nor_gl_2k.exr
+
+newmtl WOOD_BRIGHT.001
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 0.701487 0.278856
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Ns C:/laminate_floor_03_rough_2k.exr
+map_Bump -bm 1.000000 C:/laminate_floor_03_nor_gl_2k.exr
+
+newmtl WOOD_MID_DARK
+Ka 1.000000 1.000000 1.000000
+Kd 0.692071 0.356233 0.191453
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Ns C:/herringbone_parquet_rough_2k.exr
+map_Bump -bm 1.000000 C:/herringbone_parquet_nor_gl_2k.exr
+
+newmtl WOOD_MID_DARK.001
+Ka 1.000000 1.000000 1.000000
+Kd 0.692071 0.356233 0.191453
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Ns C:/herringbone_parquet_rough_2k.exr
+map_Bump -bm 1.000000 C:/herringbone_parquet_nor_gl_2k.exr
+
+newmtl metal
+Ka 0.664740 0.664740 0.664740
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd C:/METAL_001_2K_BaseColor.jpg
+map_Ks C:/METAL_001_2K_SpecularLevel.jpg
+map_Ns C:/METAL_001_2K_Roughness.jpg
+map_refl C:/METAL_001_2K_AmbientOcclusion.jpg
+map_Bump -bm 1.000000 C:/METAL_001_2K_Normal.jpg
+
+newmtl wood1
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/raw_plank_wall_diff_2k.jpg
+map_Ns C:/raw_plank_wall_rough_2k.exr
+map_Bump -bm 1.000000 C:/raw_plank_wall_nor_gl_2k.exr
